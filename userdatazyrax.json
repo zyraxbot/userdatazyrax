@@ -22,5 +22,11 @@
         "key": "jmbt",
         "expirydate": "11-01-2026",
         "Allowoffline": true
-    }
+    },
+        {
+        "device_id": "0c71a9fcddbbd1d5",
+        "key": "zyrax",
+        "expirydate": "15-01-2026",
+        "Allowoffline": true
+        }
 ]
