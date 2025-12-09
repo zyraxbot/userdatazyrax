@@ -34,5 +34,11 @@
         "key": "haxzy",
         "expirydate": "10-01-2026",
         "Allowoffline": true
-            }
+            },
+                {
+        "device_id": "d043624dd15b0506",
+        "key": "rifky",
+        "expirydate": "10-01-2026",
+        "Allowoffline": true
+                }
 ]
