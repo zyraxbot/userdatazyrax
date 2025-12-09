@@ -28,5 +28,11 @@
         "key": "zyrax",
         "expirydate": "15-01-2026",
         "Allowoffline": true
-        }
+        },
+            {
+        "device_id": "5604dc15210cb040",
+        "key": "haxzy",
+        "expirydate": "10-01-2026",
+        "Allowoffline": true
+            }
 ]
