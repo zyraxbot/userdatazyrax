@@ -40,12 +40,10 @@
         "key": "rifky",
         "expirydate": "10-01-2026",
         "Allowoffline": true
-                },
-                },
-                {
+     },
+                    {
         "device_id": "f5fc489f51df6ce9",
         "key": "cuek",
         "expirydate": "10-01-2026",
         "Allowoffline": true
-                }
 ]
