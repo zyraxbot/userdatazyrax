@@ -16,5 +16,11 @@
         "key": "tes",
         "expirydate": "11-01-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "10c485f647c59156",
+        "key": "jmbt",
+        "expirydate": "11-01-2026",
+        "Allowoffline": true
     }
 ]
