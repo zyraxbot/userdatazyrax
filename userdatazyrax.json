@@ -47,12 +47,6 @@
         "expirydate": "10-01-2026",
         "Allowoffline": true
                     },
-     {
-        "device_id": "7262056a3dc7ebed",
-        "key": "junz",
-        "expirydate": "10-01-2026",
-        "Allowoffline": false
-     },
          {
         "device_id": "354743ad3e4341b7",
         "key": "user98722",
